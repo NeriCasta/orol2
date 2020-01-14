@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\orol2\orol2\bin\Debug\orol2.exe.config
+C:\Users\Administrator\source\repos\orol2\orol2\bin\Debug\orol2.exe
+C:\Users\Administrator\source\repos\orol2\orol2\bin\Debug\orol2.pdb
+C:\Users\Administrator\source\repos\orol2\orol2\obj\Debug\orol2.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\orol2\orol2\obj\Debug\orol2.Form1.resources
+C:\Users\Administrator\source\repos\orol2\orol2\obj\Debug\orol2.Properties.Resources.resources
+C:\Users\Administrator\source\repos\orol2\orol2\obj\Debug\orol2.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\orol2\orol2\obj\Debug\orol2.exe
+C:\Users\Administrator\source\repos\orol2\orol2\obj\Debug\orol2.pdb
+C:\Users\Administrator\source\repos\orol2\orol2\obj\Debug\orol2.menu.resources
